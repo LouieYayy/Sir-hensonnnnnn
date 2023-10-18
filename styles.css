@@ -1,0 +1,48 @@
+/* styles.css */
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #ebedeb;
+}
+
+h1 {
+	font-size: 36px;
+	margin: 0;
+  	padding: 45px;
+  	background-color: #262926;
+  	color: white;
+}
+
+h3 {
+	text-align: left;
+	white-space: nowrap;
+	text-indent: 15px;
+}
+
+.content {
+	border-style: none;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	text-align: left;
+	text-indent: -25px;
+	font-size: 18x;
+  	max-width: 400px; 
+  	margin: 0 auto;
+  	margin-top: 25px; 
+  	padding: 20px 500px 20px 5px;
+  	color: #262926;
+  	background-color: white;
+}
+
+.bullet {
+	font-size: 20px;
+	white-space: nowrap;
+}
+
+ul {
+	list-style: none;
+	text-align: justify;
+  	line-height: 1.8;
+}
